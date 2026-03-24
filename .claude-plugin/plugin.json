@@ -1,0 +1,9 @@
+{
+  "name": "codex-bridge",
+  "description": "Codex CLI를 활용한 코드베이스 탐색(spark) 및 고급 기술 분석(oracle) 도구",
+  "version": "0.1.0",
+  "author": {
+    "name": "jylkim"
+  },
+  "keywords": ["codex", "exploration", "oracle", "deep-reasoning"]
+}

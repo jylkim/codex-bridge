@@ -1,0 +1,13 @@
+{
+  "name": "codex-bridge",
+  "owner": {
+    "name": "jylkim"
+  },
+  "plugins": [
+    {
+      "name": "codex-bridge",
+      "source": "./",
+      "description": "Codex CLI-powered codebase exploration and deep reasoning"
+    }
+  ]
+}
